@@ -1,0 +1,6 @@
+data/private/
+data/samples/
+*.xlsx
+*.csv
+!templates/*.csv
+.DS_Store
